@@ -2,7 +2,7 @@
 
 Please reach out if you think you've found a security issue.
 
-Email Evan Hahn at <me@evanhahn.com>, on Signal at [EvanHahn.64](https://signal.me/#eu/vDide_HmUgHnNa0usMXq8oHAA0gnl5dzCqDeHyXhkeIbIiOcPVhCZKXIZteSqoc8), or [in other ways](https://evanhahn.com/contact).
+Email Evan Hahn at <me@evanhahn.com>, on Signal at [EvanHahn.64](https://signal.me/#eu/vDide_HmUgHnNa0usMXq8oHAA0gnl5dzCqDeHyXhkeIbIiOcPVhCZKXIZteSqoc8), or [in other ways](https://evanhahn.com/contact), or create a github issue.
 
 My playbook for security issues:
 
